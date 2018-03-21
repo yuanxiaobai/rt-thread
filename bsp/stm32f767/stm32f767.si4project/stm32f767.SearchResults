@@ -1,3 +1,0 @@
----- RT_USING_LIBC Matches (2 in 1 files) ----
-rtconfig.h line 117 : // <bool name="RT_USING_LIBC" description="Using libc library" default="true" />
-rtconfig.h line 118 : //#define RT_USING_LIBC
